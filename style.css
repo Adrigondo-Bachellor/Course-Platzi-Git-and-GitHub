@@ -9,8 +9,8 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #65baff;
-    box-shadow: 0px 2px 20px 0px #0059ff80;
+    background-color: #5fd687;
+    box-shadow: 0px 2px 20px 0px #47926a80;
 }
 .brand{
     display: flex;
@@ -20,7 +20,7 @@ body{
 .brand .image{
     height: 50px;
     width: 50px;
-    background-color: #455d8b;
+    background-color: #458b76;
     border-radius: 50%;
     margin: 0px 15px;
 }
