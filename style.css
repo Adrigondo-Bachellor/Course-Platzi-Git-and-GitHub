@@ -10,6 +10,7 @@ body{
     justify-content: space-between;
     align-items: center;
     background-color: #2fe27a;
+    box-shadow: 0px 2px 20px 0px #5c706280;
 }
 .brand{
     display: flex;
